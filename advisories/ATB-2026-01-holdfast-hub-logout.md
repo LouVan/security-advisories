@@ -4,8 +4,8 @@
 - **Package:** `app.aroundtheblock.wallet`
 - **Vendor:** Around The Block LLC
 - **Severity:** Low (Session & Client Transport Hygiene)
-- **Affected Versions:** v4.1.0 (commit `8fe2440ef`)
-- **Patched Version:** v4.1.2 (commit `v4.1.2`)
+- **Affected Versions:** v4.1.0–v4.1.1
+- **Patched Version:** v4.1.2
 - **Researcher:** Lou ([@LouVan](https://github.com/LouVan))
 - **Disclosure Date:** 2026-10-16
 - **Release Date:** 2026-10-26
